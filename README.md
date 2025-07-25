@@ -39,3 +39,8 @@ git clone https://github.com/velapoojitha/e-mart-react.git
 cd e-mart-react
 npm install
 npm run dev
+```
+## 🌐 Project live link
+```
+https://velapoojitha.github.io/e-mart-react/
+```
